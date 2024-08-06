@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+label {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.form-layout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
